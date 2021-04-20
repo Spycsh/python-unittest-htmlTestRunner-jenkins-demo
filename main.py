@@ -27,6 +27,7 @@ if __name__ == '__main__':
         )
         runner.run(suit)
 
-    # use gmail as the email sender
-    smtp = SMTP(user="sender@gmail.com", password="your_password", host="smtp.gmail.com")
-    smtp.sender(to="receiver@kth.se", attachments=report)
+    # use gmail to provide email sending service
+    smtp = SMTP(user="sender@gmail.com", password="", host="smtp.gmail.com")
+    # fill in the receiver email here
+    smtp.sender(to="sihanc@kth.se", attachments=report)
