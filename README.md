@@ -36,10 +36,11 @@ For example:
 ```
 python main.py
 ```
+So it means as demonstrated in Step 5, if there are some changes on the github, then execute the `main.py`.
 
 7. In **Post-build Actions**
 If you do not find any post-build action, please download [link](https://plugins.jenkins.io/htmlpublisher/)
-Then you should fill in the report location in **Index page[s]**, namely `result.html` in this project.
+Then you should fill in the report address in **Index page[s]**, namely `result.html` in this project.
 And then you can assign the report title.
 
 8. Apply -> Save
@@ -47,7 +48,7 @@ And then you can assign the report title.
 
 ## Results
 
-
+![result](./README/result1.PNG)
 
 ## Potential Problem and Solution
 * If you find no CSS found in html report
