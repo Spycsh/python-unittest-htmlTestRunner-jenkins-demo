@@ -48,7 +48,9 @@ And then you can assign the report title.
 
 ## Results
 
-![result](./README/result1.PNG)
+![result1](./README/result1.PNG)
+
+![result2](./README/result2.PNG)
 
 ## Potential Problem and Solution
 * If you find no CSS found in html report
