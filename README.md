@@ -34,6 +34,7 @@ select `Poll SCM` and edit **Scedule** with `H/4 * * * *`, which means that Jenk
 select `execute Windows batch command`, write your command to execute the scripts.
 For example: 
 ```
+pip install --user -r requirements.txt
 python main.py
 ```
 So it means as demonstrated in Step 5, if there are some changes on the github, then it will execute the `main.py`.
