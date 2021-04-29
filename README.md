@@ -4,6 +4,8 @@ This demo will show how to intergrate python unittest with Jenkins and generate 
 
 You can view the video explaination here [https://www.youtube.com/watch?v=IgaBnNzCGfo](https://www.youtube.com/watch?v=IgaBnNzCGfo).
 
+If you do not have experience of Jenkins, you can also view the demo with GitHub Action with this link :smirk: [https://github.com/Spycsh/python-unittest-htmlTestRunner-GitHub-Action-demo](https://github.com/Spycsh/python-unittest-htmlTestRunner-GitHub-Action-demo).
+
 ## Download this demo
 ```
 git clone https://github.com/Spycsh/python-unittest-htmlTestRunner-jenkins-demo.git
